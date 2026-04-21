@@ -1,0 +1,23 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.form{
+    margin: 20px;
+}
+
+input{
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+}
+
+button{
+    padding: 10px 20px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
